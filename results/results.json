@@ -1,0 +1,172 @@
+{
+  "institutions": 12,
+  "from_birth": 665,
+  "others": 389,
+  "total": 1054,
+  "pooled_from_birth_pct": 63.092979127134726,
+  "pooled_others_pct": 36.907020872865274,
+  "institution_shares_pct": {
+    "London Asylum, Old Kent Road": 65.25096525096525,
+    "Asylum at Hackney": 77.77777777777777,
+    "Jews Deaf-and-Dumb Home": 60.0,
+    "Brighton Institution": 95.87628865979381,
+    "Exeter Institution": 73.84615384615384,
+    "Bristol Asylum": 72.72727272727273,
+    "Birmingham Institution (Edgbaston": 41.666666666666664,
+    "Manchester Schools": 58.69565217391305,
+    "Yorkshire Institution (Doncaster)": 64.76190476190476,
+    "Northern Counties Institution (Newcastle)": 41.55844155844156,
+    "Cambrian Institution (Swansea)": 57.69230769230769,
+    "Liverpool School": 56.0
+  },
+  "equal_institution_weight_share_pct": 63.82111925959976,
+  "leave_one_institution_out": [
+    {
+      "omitted": "London Asylum, Old Kent Road",
+      "share_pct": 62.38993710691824
+    },
+    {
+      "omitted": "Asylum at Hackney",
+      "share_pct": 62.57367387033399
+    },
+    {
+      "omitted": "Jews Deaf-and-Dumb Home",
+      "share_pct": 63.122605363984675
+    },
+    {
+      "omitted": "Brighton Institution",
+      "share_pct": 59.770114942528735
+    },
+    {
+      "omitted": "Exeter Institution",
+      "share_pct": 62.386248736097066
+    },
+    {
+      "omitted": "Bristol Asylum",
+      "share_pct": 62.781586679725756
+    },
+    {
+      "omitted": "Birmingham Institution (Edgbaston",
+      "share_pct": 65.53911205073996
+    },
+    {
+      "omitted": "Manchester Schools",
+      "share_pct": 63.75545851528384
+    },
+    {
+      "omitted": "Yorkshire Institution (Doncaster)",
+      "share_pct": 62.90832455216017
+    },
+    {
+      "omitted": "Northern Counties Institution (Newcastle)",
+      "share_pct": 64.79017400204708
+    },
+    {
+      "omitted": "Cambrian Institution (Swansea)",
+      "share_pct": 63.2295719844358
+    },
+    {
+      "omitted": "Liverpool School",
+      "share_pct": 63.83647798742138
+    }
+  ],
+  "coverage_diagnostic": {
+    "reported_institutional_total": 1122,
+    "table_total": 1054,
+    "difference": 68,
+    "table_fraction_pct": 93.93939393939394
+  },
+  "conditional_completion_scenarios_pct": {
+    "all_others_acquired_and_68_unmarked_acquired": 59.26916221033868,
+    "all_others_acquired_and_68_unmarked_from_birth": 65.32976827094474,
+    "others_not_assumed_acquired_with_no_other_information_lower": 59.26916221033868,
+    "others_not_assumed_acquired_with_no_other_information_upper": 100.0
+  },
+  "correction_1881": {
+    "enumerated": 13295,
+    "under5_enumerated": 498,
+    "under5_estimated": 2077,
+    "corrected": 14874,
+    "added": 1579,
+    "increase_pct": 11.876645355396766,
+    "under5_estimate_multiple": 4.170682730923695
+  },
+  "age_rate_changes_1871_to_1881": [
+    {
+      "age": "0\u2014",
+      "1871": 145,
+      "1881": 141,
+      "difference": -4,
+      "relative_change_pct": -2.758620689655178
+    },
+    {
+      "age": "5\u2014",
+      "1871": 625,
+      "1881": 590,
+      "difference": -35,
+      "relative_change_pct": -5.600000000000005
+    },
+    {
+      "age": "15\u2014",
+      "1871": 626,
+      "1881": 564,
+      "difference": -62,
+      "relative_change_pct": -9.904153354632584
+    },
+    {
+      "age": "20\u2014",
+      "1871": 611,
+      "1881": 593,
+      "difference": -18,
+      "relative_change_pct": -2.9459901800327315
+    },
+    {
+      "age": "25\u2014",
+      "1871": 524,
+      "1881": 568,
+      "difference": 44,
+      "relative_change_pct": 8.3969465648855
+    },
+    {
+      "age": "45\u2014",
+      "1871": 511,
+      "1881": 534,
+      "difference": 23,
+      "relative_change_pct": 4.500978473581219
+    },
+    {
+      "age": "65 and upwards",
+      "1871": 436,
+      "1881": 560,
+      "difference": 124,
+      "relative_change_pct": 28.440366972477072
+    }
+  ],
+  "others_sensitivity": [
+    {
+      "unknown_fraction_of_others": "0",
+      "lower_pct": 63.092979127134726,
+      "upper_pct": 63.092979127134726
+    },
+    {
+      "unknown_fraction_of_others": "1/4",
+      "lower_pct": 63.092979127134726,
+      "upper_pct": 72.31973434535104
+    },
+    {
+      "unknown_fraction_of_others": "1/2",
+      "lower_pct": 63.092979127134726,
+      "upper_pct": 81.54648956356736
+    },
+    {
+      "unknown_fraction_of_others": "3/4",
+      "lower_pct": 63.092979127134726,
+      "upper_pct": 90.77324478178367
+    },
+    {
+      "unknown_fraction_of_others": "1",
+      "lower_pct": 63.092979127134726,
+      "upper_pct": 100.0
+    }
+  ]
+}

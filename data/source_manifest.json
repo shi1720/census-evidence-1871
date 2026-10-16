@@ -1,0 +1,23 @@
+[
+  {
+    "census_year": 1861,
+    "retrieved": "2026-10-16",
+    "sha256_downloaded_html": "f1a024452f1104a1c12feae89c20b615edc74dc780d2ed7f22087c0cb124ff71",
+    "redistributed": "Selected public-domain passages and tables only",
+    "url": "https://www.visionofbritain.org/text/chap_page.jsp?c_id=11&cpub_id=EW1861GEN&t_id=SRC_P"
+  },
+  {
+    "census_year": 1871,
+    "retrieved": "2026-10-16",
+    "sha256_downloaded_html": "068ec141fcf9b490bfcce3d4fcd6dbe4697fa4c6abe17ba1d950d8178339dd2c",
+    "redistributed": "Selected public-domain passages and tables only",
+    "url": "https://www.visionofbritain.org/text/chap_page.jsp?c_id=6&cpub_id=EW1871GEN&t_id=SRC_P"
+  },
+  {
+    "census_year": 1881,
+    "retrieved": "2026-10-16",
+    "sha256_downloaded_html": "735bae3552df71c445a224f15e4d3fa97a5a773710f2dd8c21d2990dfdc728ee",
+    "redistributed": "Selected public-domain passages and tables only",
+    "url": "https://www.visionofbritain.org/text/chap_page.jsp?c_id=10&cpub_id=EW1881GEN&t_id=SRC_P"
+  }
+]
